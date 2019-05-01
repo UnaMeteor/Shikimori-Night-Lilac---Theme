@@ -275,7 +275,9 @@ header.head a.edit,
 .b-block_list li:hover,
 .b-input input,
 .b-input textarea,
-.noUi-target {
+.noUi-target,
+.b-hot_topics-v2
+{
     background: #151515;
     border: none;
     color: #dbdbdb;
