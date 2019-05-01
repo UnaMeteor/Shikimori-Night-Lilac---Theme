@@ -378,7 +378,9 @@ a,
 .subheadline .misc-links>a,
 .b-edit_styles .edit_style .style_css .editor-collapse,
 .p-profiles-show .profile-content .activity .title,
-.b-edit_styles .edit_style .style_css .editor-expand {
+.b-edit_styles .edit_style .style_css .editor-expand,
+.b-tag
+{
     color: #6699cc;
 }
 
