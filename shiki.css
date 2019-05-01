@@ -167,7 +167,8 @@ h3,
 .midheadline,
 .subheadline,
 .b-quote .b-quote,
-.collapsed {
+.collapsed,
+.l-top_menu-v2{
     background: #151515;
     border: none;
     /*color: #F984E5; */
@@ -275,9 +276,9 @@ header.head a.edit,
 .b-block_list li:hover,
 .b-input input,
 .b-input textarea,
-.noUi-target,
-.b-hot_topics-v2
-{
+.noUi-target ,
+.b-hot_topics-v2,
+.l-top_menu-v2 .global-search input{
     background: #151515;
     border: none;
     color: #dbdbdb;
@@ -381,8 +382,8 @@ a,
 .b-edit_styles .edit_style .style_css .editor-collapse,
 .p-profiles-show .profile-content .activity .title,
 .b-edit_styles .edit_style .style_css .editor-expand,
-.b-tag
-{
+.b-tag,
+.b-hot_topics-v2 .subject{
     color: #6699cc;
 }
 
