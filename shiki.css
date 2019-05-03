@@ -251,7 +251,7 @@ header.head a.edit,
     color: #66b256;
 }
 
-.b-link:hover {
+.b-link:hover{
 
     /*color: #47b432;*/
     color: #66b256;
@@ -277,8 +277,9 @@ header.head a.edit,
 .b-input input,
 .b-input textarea,
 .noUi-target ,
-.b-hot_topics-v2,
-.l-top_menu-v2 .global-search input{
+.b-hot_topics-v2
+
+{
     background: #151515;
     border: none;
     color: #dbdbdb;
@@ -325,7 +326,8 @@ header.head h2 a.back,
 
 .collapsed:hover,
 .b-comments .faye-loader,
-.b-forum .faye-loader {
+.b-forum .faye-loader,
+.l-top_menu-v2 .global-search input{
     border: none;
     color: #EA7E5D;
     background: black;
@@ -383,12 +385,13 @@ a,
 .p-profiles-show .profile-content .activity .title,
 .b-edit_styles .edit_style .style_css .editor-expand,
 .b-tag,
-.b-hot_topics-v2 .subject{
+.b-hot_topics-v2 .subject,
+.l-top_menu-v2 .global-search .search-marker{
     color: #6699cc;
 }
 
 a:active,
-a:hover,
+a:hover,.c-brief .avatar img
 .l-top_menu .submenu>.entry:hover,
 .l-top_menu .submenu>.entry a,
 
@@ -401,7 +404,9 @@ a:hover,
 }
 
 .b-link_button:hover,
-.b-link_button.dark:hover
+.b-link_button.dark:hover,
+
+.p-user_rates-index .list-lines tr.editable:hover
 
 /*.p-topics header h1 a.reload:hover */
     {
@@ -505,3 +510,18 @@ a:hover,
     cursor: default;
     box-shadow: inset 0 0 1px #fff, inset 0 1px 7px #ebebeb, 0 3px 6px -3px #bbb;
 }
+.l-top_menu-v2 .logo-container .logo
+{
+  background-image: none;
+  width: 0;.c-brief .avatar img
+}
+.l-top_menu-v2 {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.l-top_menu-v2 .menu-dropdown.profile > button img,
+.c-brief .avatar img {
+  border-radius: 50%;
+}
+
+
