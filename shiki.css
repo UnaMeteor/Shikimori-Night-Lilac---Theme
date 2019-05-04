@@ -45,7 +45,8 @@ header.head h2,
 
 .b-hot_topics .topic.subject,
 .p-dashboard .l-menu .ongoing .misc,
-.b-replies
+.b-replies,
+.p-user_rates-index .list-lines tr .index
 {
     color: white !important;
 }
