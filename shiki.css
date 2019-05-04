@@ -550,7 +550,8 @@ a:hover,
 }
 .l-top_menu-v2 .menu-dropdown.profile > button img,
 .c-brief .avatar img,
-.b-message > .inner header img
+.b-message > .inner header img,
+.b-comment > .inner header img
 {
   border-radius: 50%;
 }
