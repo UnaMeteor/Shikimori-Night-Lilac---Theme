@@ -340,7 +340,9 @@ header.head h2 a.back,
 .mfp-iframe-holder .mfp-close,
 .b-show_more,
 .b-rate .text-score,
-.b-rate .score-notice{
+.b-rate .score-notice,
+l-top_menu-v2 .global-search input,
+.l-top_menu-v2.is-search-focus .global-search .search-marker{
 
     color: #EA7E5D;
 }
@@ -407,7 +409,7 @@ a,
 .b-edit_styles .edit_style .style_css .editor-expand,
 .b-tag,
 .b-hot_topics-v2 .subject,
-.l-top_menu-v2 .global-search .search-marker,
+
 .p-profiles-edit .list .profile-action a:not(.b-button){
     color: #6699cc;
 }
@@ -550,5 +552,9 @@ a:hover,
 .c-brief .avatar img {
   border-radius: 50%;
 }
-
+ /* fix новости дня */
+.b-hot_topics-v2
+{
+  height: 60px;
+}
 
