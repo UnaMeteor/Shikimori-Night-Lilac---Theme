@@ -1,5 +1,5 @@
 /*  Night Lilac - Theme  */
-
+@media (min-width: 960px);
 body,
 .to-top-fix {
     background: black;
@@ -131,9 +131,10 @@ h3,
 .b-video_variant .episode-num,
 .b-video_variant .video-id,
 .b-catalog_entry-tooltip .inner .rating .text,
-.b-catalog_entry-tooltip .inner .ratinge{
+.b-catalog_entry-tooltip .inner .rating
+{
     /*color: #F984E5; */
-    color: #b492c4;
+    color: #b492c4 ;
 }
 
 .b-catalog_entry-tooltip .inner .rating .text,
@@ -343,8 +344,10 @@ header.head h2 a.back,
 .b-show_more,
 .b-rate .text-score,
 .b-rate .score-notice,
-l-top_menu-v2 .global-search input,
-.l-top_menu-v2.is-search-focus .global-search .search-marker{
+.l-top_menu-v2 .global-search input,
+.l-top_menu-v2.is-search-focus .global-search .search-marker
+
+{
 
     color: #EA7E5D;
 }
@@ -561,8 +564,8 @@ a:hover,
 .l-top_menu-v2 .menu-dropdown.profile > button img,
 .c-brief .avatar img,
 .b-message > .inner header img,
-.b-comment > .inner header img,
-.b-topic > .inner header img
+.b-comment > .inner header img
+/*.b-topic > .inner header img */
 {
   border-radius: 50%;
 }
