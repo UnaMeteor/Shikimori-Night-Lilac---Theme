@@ -549,11 +549,12 @@ a:hover,
   margin: 0 auto;
 }
 .l-top_menu-v2 .menu-dropdown.profile > button img,
-.c-brief .avatar img {
+.c-brief .avatar img,
+.b-message > .inner header img
+{
   border-radius: 50%;
 }
- /* fix новости дня */
-.b-hot_topics-v2
+.b-hot_topics-v2 
 {
   height: 60px;
 }
