@@ -46,7 +46,8 @@ header.head h2,
 .b-hot_topics .topic.subject,
 .p-dashboard .l-menu .ongoing .misc,
 .b-replies,
-.p-user_rates-index .list-lines tr .index
+.p-user_rates-index .list-lines tr .index,
+.l-top_menu-v2 .global-search .search-results .nothing_found:first-child
 {
     color: white !important;
 }
