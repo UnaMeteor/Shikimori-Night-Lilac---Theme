@@ -347,7 +347,13 @@ l-top_menu-v2 .global-search input,
 
     color: #EA7E5D;
 }
-
+header.head .misc, header.head a.edit
+{
+	color: #EA7E5D;
+	font-family: "Helvetica Neue", Arial, Verdana, sans-serif;
+	font-size: 13px;
+	line-height: 12px;
+}
 .collapsed:hover,
 .b-comments .faye-loader,
 .b-forum .faye-loader,
