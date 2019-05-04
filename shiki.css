@@ -128,7 +128,7 @@ h3,
 .b-video_variant .episode-num,
 .b-video_variant .video-id,
 .b-catalog_entry-tooltip .inner .rating .text,
-.b-catalog_entry-tooltip .inner .rating {
+.b-catalog_entry-tooltip .inner .ratinge{
     /*color: #F984E5; */
     color: #b492c4;
 }
@@ -168,7 +168,8 @@ h3,
 .subheadline,
 .b-quote .b-quote,
 .collapsed,
-.l-top_menu-v2{
+.l-top_menu-v2
+{
     background: #151515;
     border: none;
     /*color: #F984E5; */
@@ -246,7 +247,8 @@ h3,
 .p-user_history-index .history-page .history-interval p a,
 header.head a.misc,
 header.head a.edit,
-.b-comment .inner .name-date a.name .normal {
+.b-comment .inner .name-date a.name .normal,
+.p-user_rates-index .list-lines tr td .episodes_total{
     /*color: #47b432; */
     color: #66b256;
 }
@@ -277,7 +279,8 @@ header.head a.edit,
 .b-input input,
 .b-input textarea,
 .noUi-target ,
-.b-hot_topics-v2
+.b-hot_topics-v2,
+.p-user_rates-index .list-lines tr td .new-value input
 
 {
     background: #151515;
@@ -319,7 +322,9 @@ header.head h2 a.back,
 .b-rate .stars.score,
 .mfp-image-holder .mfp-close,
 .mfp-iframe-holder .mfp-close,
-.b-show_more {
+.b-show_more,
+.b-rate .text-score,
+.b-rate .score-notice{
 
     color: #EA7E5D;
 }
@@ -523,5 +528,4 @@ a:hover,
 .c-brief .avatar img {
   border-radius: 50%;
 }
-
 
