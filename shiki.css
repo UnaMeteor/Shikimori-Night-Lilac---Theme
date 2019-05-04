@@ -410,7 +410,8 @@ a,
 .b-tag,
 .b-hot_topics-v2 .subject,
 .b-mention,
-.p-profiles-edit .list .profile-action a:not(.b-button){
+.p-profiles-edit .list .profile-action a:not(.b-button),
+.b-subposter-action{
     color: #6699cc;
 }
 
