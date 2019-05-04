@@ -423,7 +423,10 @@ a,
 .b-mention,
 .p-profiles-edit .list .profile-action a:not(.b-button),
 .b-subposter-action,
-.p-contests .suggestion > a, .p-contests .variant{
+.p-contests .suggestion > a, .p-contests .variant,
+.b-header_filters .filter-line a.current,
+.b-header_filters .filter-line .title,
+.b-db_entry-variant-list_item > .info .line .key{
     color: #6699cc;
 }
 
