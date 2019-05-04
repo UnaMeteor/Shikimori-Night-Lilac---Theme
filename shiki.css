@@ -411,7 +411,8 @@ a,
 .b-hot_topics-v2 .subject,
 .b-mention,
 .p-profiles-edit .list .profile-action a:not(.b-button),
-.b-subposter-action{
+.b-subposter-action,
+.p-contests .suggestion > a, .p-contests .variant{
     color: #6699cc;
 }
 
