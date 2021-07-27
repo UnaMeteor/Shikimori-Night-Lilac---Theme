@@ -181,7 +181,7 @@ h3,
 .l-top_menu-v2 .global-search .search-results,
 .l-top_menu-v2 .global-search,
 .l-top_menu-v2 .global-search .clear,
-
+.b-spoiler_block ,
 .l-top_menu-v2 .global-search .search-results .search-mode
 
 {
@@ -576,4 +576,6 @@ a:hover,
 {
   height: 60px;
 }
+
+
 
